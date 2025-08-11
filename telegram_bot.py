@@ -7,7 +7,7 @@ from pytz import timezone
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 # Telegram bot token
-TELEGRAM_BOT_TOKEN = "7815383601:AAE3lMDLmO34w5O8LOmiKMssQu8Cm4DYDmI"
+TELEGRAM_BOT_TOKEN = "<YOUR_BOT_TOKEN>"
 BOT_NAME = "SpoArcane_bot"
 
 # Scheduler (future use)
